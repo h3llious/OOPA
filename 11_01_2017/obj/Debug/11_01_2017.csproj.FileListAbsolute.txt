@@ -11,3 +11,17 @@ C:\Users\hp\Desktop\1613907_week10\nguyenthanhtuan\11_01_2017\11_01_2017\obj\Deb
 C:\Users\hp\Desktop\1613907_week10\nguyenthanhtuan\11_01_2017\11_01_2017\bin\Debug\fAccountManagement.cs
 C:\Users\hp\Desktop\1613907_week10\nguyenthanhtuan\11_01_2017\11_01_2017\bin\Debug\fAccountManagement.Designer.cs
 C:\Users\hp\Desktop\1613907_week10\nguyenthanhtuan\11_01_2017\11_01_2017\obj\Debug\_11_01_2017.fAccountManagement.resources
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\bin\Debug\fAccountManagement.cs
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\bin\Debug\fAccountManagement.Designer.cs
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\bin\Debug\11_01_2017.exe.config
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\bin\Debug\11_01_2017.exe
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\bin\Debug\11_01_2017.pdb
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\11_01_2017.csprojResolveAssemblyReference.cache
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\_11_01_2017.fAccountManagement.resources
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\_11_01_2017.fLogin.resources
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\_11_01_2017.fMain.resources
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\_11_01_2017.Properties.Resources.resources
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\11_01_2017.csproj.GenerateResource.Cache
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\11_01_2017.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\11_01_2017.exe
+C:\Users\Hoang\Downloads\update06_11_2017\11_01_2017\11_01_2017\obj\Debug\11_01_2017.pdb

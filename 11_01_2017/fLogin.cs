@@ -16,12 +16,15 @@ namespace _11_01_2017
         {
             InitializeComponent();
             txbUser.Focus();
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string user = txbUser.Text;
             string pass = txbPass.Text;
-            if(Login(user,pass))
+            if (Login(user, pass))
             {
                 fMain frm = new fMain();
                 this.Hide();
@@ -35,9 +38,9 @@ namespace _11_01_2017
                 txbPass.Text = "";
             }
         }
-        bool Login(string username,string password)
+        bool Login(string username, string password)
         {
-            return AccountDAO.INSTANCE.Login(username,password);
+            return AccountDAO.INSTANCE.Login(username, password);
         }
         private void btnExit_Click(object sender, EventArgs e)
         {
@@ -56,7 +59,7 @@ namespace _11_01_2017
 
         private void txbUser_KeyDown(object sender, KeyEventArgs e)
         {
-            if(e.KeyCode==Keys.Enter)
+            if (e.KeyCode == Keys.Enter)
             {
                 SendKeys.Send("{TAB}");
 
@@ -78,5 +81,35 @@ namespace _11_01_2017
 
         }
 
+        private void txbPass_TextChanged(object sender, EventArgs e)
+        {
+            txbPass.PasswordChar = '•';
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void fLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txbUser_TextChanged(object sender, EventArgs e)
+        {
+         
+        }
+
+        private void txbUser_Click(object sender, EventArgs e)
+        {
+            if (txbUser.Text == "Username") txbUser.Text = "";
+            txbUser.Font = new Font(FontFamily.GenericSansSerif,9.0F, FontStyle.Regular);
+        }
+
+        private void txbPass_Click(object sender, EventArgs e)
+        {
+            if (txbPass.Text == "Password") txbPass.Text = "";
+        }
     }
 }
